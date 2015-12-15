@@ -194,7 +194,7 @@
 }
 
 .card.hovercard .cardheader {
-    background: url("img/b2.png");
+    background: url("../img/b2.png");
     background-size: cover;
     height: 155px;
     border-radius: 10px 10px 0px 0px;
